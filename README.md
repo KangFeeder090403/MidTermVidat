@@ -1,6 +1,11 @@
 ﻿# MidTermVidat
 
-# Steam Game Visualization 🎮📈
+# Steam Game Visualization 
+# Anggota Kelompok :
+Alvito Uday Alfariz | 1203220143
+Mochamad Elang Samudra | 1203220026
+HaydarAkbar Al gani | 120320015
+Wisnu Buwana Prabaswara | 1203220103
 
 Proyek visualisasi interaktif berbasis Flask + Plotly.js + Pandas untuk mengeksplorasi dataset Steam Games.
 
